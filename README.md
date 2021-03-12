@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @res0x01
-- 👀 I’m interested in ...competitive programming, CTF, network, compiler and making a website
+- 👀 I’m interested in ...competitive programming, CTF, network and compilers
 - 🌱 I’m currently learning ...math and other random stuffs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...reach me over on Twitter!
